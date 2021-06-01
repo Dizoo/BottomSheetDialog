@@ -12,7 +12,7 @@ Add the dependency:
 
 ```groovy 
 dependencies {
-    implementation 'com.github.andrefrsousa:SuperBottomSheet:1.0.0'
+    implementation 'com.github.Dizoo:BottomSheetDialog:1.0.0'
 }
 ```  
   
